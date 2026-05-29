@@ -297,8 +297,8 @@ export default function App() {
               What We Carry
             </h2>
 
-            <p className="text-gray-600 text-lg">
-              Everything collectors are hunting for.
+            <p className="text-[#ffc801] text-lg">
+              Everything collectors are hunting for
             </p>
           </div>
 
@@ -374,7 +374,7 @@ export default function App() {
       {/* INSTAGRAM */}
       <section
         id="instagram"
-        className="py-28 bg-black overflow-hidden"
+        className="py-28 bg-[#EDEDED] overflow-hidden"
       >
 
         <div className="max-w-7xl mx-auto px-6 mb-14 text-center">
@@ -383,7 +383,7 @@ export default function App() {
             Community
           </p>
 
-          <h2 className="text-4xl md:text-5xl font-bold text-white mb-4">
+          <h2 className="text-4xl md:text-5xl font-bold text-black mb-4">
             Latest Drops & Pulls
           </h2>
 
