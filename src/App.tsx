@@ -1,6 +1,3 @@
-
-import React from "react";
-
 const reviews = [
   {
     quote: "Best Pokémon selection in Miami. Always something new.",
